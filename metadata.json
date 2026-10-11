@@ -1,0 +1,6 @@
+{
+  "name": "WINTER ARC",
+  "description": "Minimalist digital Winter Arc habits & sleep tracker application based on printable template.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
